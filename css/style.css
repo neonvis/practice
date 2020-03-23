@@ -1,0 +1,22 @@
+/*обнуление*/
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+li{
+	text-decoration: none;
+	list-style: none;
+}
+/*------------*/
+
+
+/*начало кода*/
+body {
+	background-color: rgb(3, 207, 122);
+}
+h1 {
+	color: #fff;
+}
